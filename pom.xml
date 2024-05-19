@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pe.edu.vallegrande</groupId>
-    <artifactId>HistoryServiceImpl</artifactId>
+    <artifactId>speech</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>speech</name>
     <description>speech</description>
